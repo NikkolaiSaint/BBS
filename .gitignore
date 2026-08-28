@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# Electron
+out/
+dist/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
